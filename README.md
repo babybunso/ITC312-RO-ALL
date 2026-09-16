@@ -1,8 +1,8 @@
-# Systems Integration – Paper-Based Readings & Review Instructions
+# ITP312 Systems Integrations and Architecture 1 – Paper-Based Readings & Review Instructions
 
 ## Overview
 
-For this reading class, you are required to **read, analyze, and critique selected academic papers** related to **Systems Integration**.
+For this reading class, you are required to **read, analyze, and critique selected academic papers** related to **Systems Integrations and Architecture**.
 
 This activity is designed to help you:
 
@@ -48,10 +48,10 @@ For **each paper**, your handwritten review should clearly address the following
    - What assumptions, limitations, or gaps do you observe?
 
 5. **Capstone / Research Relevance**
-   - How can this paper inspire a **Systems Integration research or capstone topic**?
+   - How can this paper inspire a **Systems Integrations and Architecture research or capstone topic**?
    - What can be improved, extended, or integrated with other systems?
 
-Your responses should reflect **your own understanding and critical thinking**, not a summarized copied from the paper.
+Your responses should reflect **your own understanding and critical thinking**, not a summary copied from the paper.
 
 ---
 
